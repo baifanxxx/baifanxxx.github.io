@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Fan Bai"
-description              : &description "A Ph.D. candidate at The Chinese University of Hong Kong"
+description              : &description "A Ph.D. at The Chinese University of Hong Kong"
 url                      : https://baifanxxx.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "baifanxxx/baifanxxx.github.io"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Fan Bai"
-  avatar           : "me.JPG"
-  bio              : "A Ph.D. candidate at The Chinese University of Hong Kong"
+  avatar           : "Me_Macao.jpg"
+  bio              : "A Ph.D. at The Chinese University of Hong Kong"
   location         : "Hong Kong, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
