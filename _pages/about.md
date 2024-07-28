@@ -10,11 +10,14 @@ redirect_from:
 
 I am Fan Bai (白帆), a Ph.D. candidate in the Department of Electronic Engineering, The Chinese University of Hong Kong (CUHK), supervised by [Prof. Max Q.-H. Meng](https://www.ee.cuhk.edu.hk/~qhmeng/). Before CUHK, I received my B.Eng. degree from the Faculty of Robot Science and Engineering, Robot Engineering, Northeastern University (NEU) in 2020, advised by [Prof. Zheng Fang](http://www.rse.neu.edu.cn/2022/0104/c2263a209109/pagem.htm) for undergrad projects and advised by [Prof. Yunzhou Zhang](http://www.ise.neu.edu.cn/2019/0109/c5983a8181/page.htm) in the Visual Perception Laboratory.
 
-My research interests include active/weakly/self-/un-/semi-supervised learning, robot perception and medical image diagnose.
+My research interests include multimodal models, active/weakly/self-/un-/semi-supervised learning, robot perception and medical image diagnose.
 
 
 Publications
 ===== 
+  - **Fan Bai**, Yuxin Du, Tiejun Huang, Max Q-H Meng, Bo Zhao\*. [**M3D: Advancing 3D Medical Image Analysis with Multi-Modal Large Language Models**](). arXiv preprint arXiv:2404.00578.
+  - Yuxin Du, **Fan Bai**, Tiejun Huang, Bo Zhao\*. [**SegVol: Universal and Interactive Volumetric Medical Image Segmentation**](). arXiv preprint arXiv:2311.13385.
+  - **Fan Bai**, Ke Yan, Xiaoyu Bai, Xinyu Mao, Xiaoli Yin, Jingren Zhou, Yu Shi, Le Lu, Max Q-H Meng\*. [**SLPT: Selective Labeling Meets Prompt Tuning on Label-Limited Lesion Segmentation**](). International Conference on Medical Image Computing and Computer-Assisted Intervention 2022 (MICCAI 2023).
   - **Fan Bai**, Xiaohan Xing, Yutian Shen, Han Ma, Max Q.-H. Meng\*. [**Discrepancy-based Active Learning for Weakly Supervised Bleeding 
 Segmentation in Wireless Capsule Endoscopy Images**](). International Conference on Medical Image Computing and Computer-Assisted Intervention 2022 (MICCAI 2022).
   - Yutian Shen, Ye Lu, Xiao Jia, **Fan Bai**, Max Q.-H. Meng\*. [**Task-relevant Feature Replenishment for Cross-centre Polyp Segmentation**](). International Conference on Medical Image Computing and Computer-Assisted Intervention 2022 (MICCAI 2022).
